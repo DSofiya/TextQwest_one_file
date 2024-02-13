@@ -1,0 +1,20 @@
+{
+    "next": [
+        "Hotel_quest", "alchemist23", "alchemist23"   
+    ],
+
+    "next_end": [
+        "Hotel_quest", "end", "end_holl"
+    ],
+
+    "currency": {
+        "gold": 0
+    },
+    
+    "selection": {
+        "class_selection": "True",
+        "race_selection": "False",
+        "gender_selection": "False"
+    } 
+}
+    
