@@ -1,0 +1,17 @@
+{
+    "name": "Моє ім'я - Деметра",
+    "race": [
+        "Моя раса - Аазімар",
+        "_a"
+    ],
+    "class": [
+        "Мій клас - Чарівник",
+        "_w"
+    ],
+    "gender": [
+        "Моя стать - Жінка",
+        "_f"
+    ],
+    "first_file_path": "F:\\GitHub\\Qwest_one_file\\Hotel_quest\\beginning\\beginning.json",
+    "file_path_item": "F:\\GitHub\\Qwest_one_file\\Hotel_quest\\items.json"
+}
